@@ -10,7 +10,7 @@ It contains code, notes, and small projects that track my progress from Day 1 on
   - A README.md with topics learned and example runs.
 
 ## 📈 Progress
-- [Day 1: Simple Calculator](Day1/README.md)
+- [Day 1: Simple Calculator](Python/Day1)
 
 ---
 
