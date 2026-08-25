@@ -11,6 +11,7 @@ It contains code, notes, and small projects that track my progress from Day 1 on
 
 ## 📈 Progress
 - [Day 1: Simple Calculator](Python/Day1)
+- [Day 2:Number Guessing Game](Python/Day2)
 
 ---
 
